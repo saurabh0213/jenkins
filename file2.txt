@@ -1,0 +1,1 @@
+this is the second part of t he cicd class anhd file for jenkins practice
